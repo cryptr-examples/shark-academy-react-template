@@ -32,7 +32,7 @@ const Home = () => {
             <p
               className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
-              This is a sample application that demonstrates an authentication with <a target="_blank" rel="noreferrer" className="underline text-blue-600 hover:text-blue-800" href="https://www.cryptr.co/">Cryptr</a>, using Angular
+              This is a sample application that demonstrates an authentication with <a target="_blank" rel="noreferrer" className="underline text-blue-600 hover:text-blue-800" href="https://www.cryptr.co/">Cryptr</a>, using React
             </p>
             <div className="mt-5 sm:mt-8 flex flex-col sm:flex-row sm:items-center sm:justify-center lg:justify-start">
               <button
